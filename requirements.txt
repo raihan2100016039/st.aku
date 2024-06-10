@@ -1,0 +1,7 @@
+pandas
+streamlit
+google-play-scraper
+vaderSentiment
+googletrans
+matplotlib
+seaborn
